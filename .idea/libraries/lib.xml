@@ -1,8 +1,6 @@
 <component name="libraryTable">
-  <library name="sigar-1.6.4">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/sigar-1.6.4.jar!/" />
-    </CLASSES>
+  <library name="lib">
+    <CLASSES />
     <JAVADOC />
     <NATIVE>
       <root url="file://$PROJECT_DIR$/lib" />
